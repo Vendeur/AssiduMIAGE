@@ -1,0 +1,25 @@
+.overlay{
+    margin-top: 80px;
+}
+
+input.readOnly:read-only{
+    background-color: gray !important;
+    width: 200px;
+}
+
+.erreur{
+    padding: 10px;
+    color: red;
+    background-color: #f8a9a9;
+}
+
+.msg{
+    padding: 10px;
+    color: green;
+    background-color: greenyellow;
+}
+
+.obligatoire{
+    color : red;
+    font-weight: bold;
+}
